@@ -10,8 +10,8 @@
   
 ### Types of questions answered from the analysis:
 1. What was the best month for sales? How much was earned that month?
-2. What city sold the most product?
-3. What time should we display advertisemens to maximize the likelihood of customerâ€™s buying product?
+2. What city sold the most products?
+3. What time should advertisements be displayed to maximize the likelihood of customer buying the products?
 4. What products are most often sold together?
 5. What product sold the most? Why it sold the most?
-
+6. What product had most money spent on?
