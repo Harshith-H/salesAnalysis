@@ -1,5 +1,8 @@
 # salesAnalysis
 
+### Objective:
+  Project to analyse data on sales of electronic goods over a year using statistical methods to find relations and plot these using visualisation tools to communicate findings in a comprehensible way. 
+
 ### About the data: 
   The data contains hundreds of thousands of electronics store purchases for the year 2019 broken down by month, product type, cost, purchase address.
  
